@@ -27,11 +27,11 @@ weather-pipeline-project/
 ├── lambda_function.py
 ├── athena_queries.sql
 ├── screenshots/
-│   └── s3_upload.png
-│   └── lambda_success.png
-│   └── glue_table.png
-│   └── athena_query.png
-├── architecture.png
+│   └── S3 File Upload.png
+│   └── Lambda Test Output.png
+│   └── Glue Table Preview.png
+│   └── Athena Query.png
+├── architecture.jpg
 └── README.md
 ```
 
@@ -51,7 +51,7 @@ Here are a few visuals of what I’ve built so far:
 - ✅ Lambda execution success
 - ✅ Glue schema detection
 - ✅ Athena query results
-- ✅ 📌 [Pipeline diagram](architecture.png)
+- ✅ 📌 [Pipeline diagram](architecture.jpg)
 
 ## 🧠 What I Learned
 
